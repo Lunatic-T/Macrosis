@@ -2,7 +2,7 @@
 
 * An easy solution to macroing, made for everyone :)
 
-# Macroing
+## Macroing
 
 * A settings file will be created in the same folder that the Macro resides in
 
@@ -12,7 +12,7 @@
 
 * After this, it should save your choices and start macroing automatically!
 
-# Cool Features
+## Cool Features
 
 * No stupid watermark on embeds
 
