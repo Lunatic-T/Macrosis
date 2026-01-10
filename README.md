@@ -1,3 +1,7 @@
+# Macrosis
+
+* An easy solution to macroing, made for everyone :)
+
 # Macroing
 
 * A settings file will be created in the same folder that the Macro resides in
