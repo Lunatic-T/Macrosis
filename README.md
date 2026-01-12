@@ -1,6 +1,6 @@
 # Macrosis v1.0.0
 
-* An easy solution to macroing, made for everyone :)
+* A simpler way to macro :)
 
 * Download [v1.0.0](https://github.com/Lunatic-T/macrosis/releases/download/v1.0.0/macrosis.exe)
 
